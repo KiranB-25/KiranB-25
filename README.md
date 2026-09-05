@@ -72,8 +72,8 @@ I'm currently focused on strengthening my Python and software engineering skills
 
 ## 📫 Connect With Me
 
-📧 Email: kiranbukhari588@gmail.com
-💼 LinkedIn: linkedin.com/in/kiran-bukhari-b967742b9
+* 📧 Email: **[kiranbukhari588@gmail.com](mailto:kiranbukhari588@gmail.com)**
+* 💼 LinkedIn: [Kiran Bukhari](https://www.linkedin.com/in/kiran-bukhari-b967742b9/)
 
 Feel free to explore my repositories and follow my journey as I continue building and improving real-world software projects.
 
